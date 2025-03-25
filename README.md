@@ -4,7 +4,7 @@
 #### A modern food ordering application built with React, Redux, and TailwindCSS.
 
 ##### 🚀 Live Demo
-fooddelivaryapp.netlify.app
+[fooddelivaryapp.netlify.app](url)
 
 ###### 📌 Features
 ✅ Browse food categories & menu items </br>
